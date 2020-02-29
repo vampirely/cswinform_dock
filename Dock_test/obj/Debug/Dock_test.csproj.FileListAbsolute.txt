@@ -1,0 +1,10 @@
+E:\vs2019code\C#代码\Dock_test\Dock_test\bin\Debug\Dock_test.exe.config
+E:\vs2019code\C#代码\Dock_test\Dock_test\bin\Debug\Dock_test.exe
+E:\vs2019code\C#代码\Dock_test\Dock_test\bin\Debug\Dock_test.pdb
+E:\vs2019code\C#代码\Dock_test\Dock_test\obj\Debug\Dock_test.Form1.resources
+E:\vs2019code\C#代码\Dock_test\Dock_test\obj\Debug\Dock_test.Properties.Resources.resources
+E:\vs2019code\C#代码\Dock_test\Dock_test\obj\Debug\Dock_test.csproj.GenerateResource.cache
+E:\vs2019code\C#代码\Dock_test\Dock_test\obj\Debug\Dock_test.exe
+E:\vs2019code\C#代码\Dock_test\Dock_test\obj\Debug\Dock_test.pdb
+E:\vs2019code\C#代码\Dock_test\Dock_test\obj\Debug\Dock_test.Form2.resources
+E:\vs2019code\C#代码\Dock_test\Dock_test\obj\Debug\Dock_test.Form3.resources
